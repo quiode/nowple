@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:quiode/nowple-backend
+[submodule "website"]
+	path = website
+	url = git@github.com:quiode/nowple-website
